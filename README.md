@@ -1,6 +1,4 @@
-# Your Project Title Here
+# A basic introduction to DataCamp Projects
 
-## Project development resources
-
-* Project admin page: https://www.datacamp.com/teach/
-* Technical documentation: https://www.datacamp.com/teach/documentation
+* Project admin page: https://www.datacamp.com/teach/repositories/1808/branches/master
+* Project on datacamp.com: https://projects.datacamp.com/projects/33
