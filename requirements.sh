@@ -9,9 +9,9 @@ pip3 install matplotlib==2.0.2
 ##### Add files to the datasets/ folder on the live project #####
 
 # A list of files in datasets/ separated by space, needs to be manually updated
-FILES=""
+FILES="global_temperature.csv run_code_cell_image.png"
 # The URL where the assets of the project lives
-ASSETURL=
+ASSETURL=https://s3.amazonaws.com/assets.datacamp.com/production/project_33
 # Where the datasets will be compied on the Project image.
 DATADIR=/home/repl/datasets
   

@@ -1,6 +1,24 @@
-title          : Your Project Title
-description    : This is the description of your project.
+title          : "Introduction to DataCamp Projects"
+description    : >
+  This project is an introduction to DataCamp Projects. 
 language       : python
 from           : 'python-notebooks-prod:61'
 runtime_config : default
-technology     : 2
+state          : development
+long_description: |
+  In this project, you will get a gentle introduction to DataCamp Projects. We will
+  walk you through the projects interface interactively. You will learn how
+  to work with jupyter notebooks, complete tasks, check your work, and successfully
+  finish your project!
+technology: 2
+instructors:
+  - ramnath@datacamp.com
+collaborators:
+  - martijn@datacamp.com
+topics:
+  - 8
+  - 4
+  - 3
+time_needed: "30 minutes"
+illustration: "https://assets.datacamp.com/production/project_10/datasets/shield_image.png"
+
