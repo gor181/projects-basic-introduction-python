@@ -1,24 +1,31 @@
 title          : "Introduction to DataCamp Projects"
 description    : >
-  This project is an introduction to DataCamp Projects. 
+  If you've never done a DataCamp project, this is the place to start! 
 language       : python
 from           : 'python-notebooks-prod:61'
 runtime_config : default
 state          : development
 long_description: |
-  In this project, you will get a gentle introduction to DataCamp Projects. We will
-  walk you through the projects interface interactively. You will learn how
-  to work with jupyter notebooks, complete tasks, check your work, and successfully
-  finish your project!
+  This is an introduction to DataCamp projects. A DataCamp project will allow you to practice and 
+  apply the skills you've learned in the DataCamp courses. In each project you will carry out an 
+  end-to-end analysis, on a real-world task, using real-world tools and workflows. 
+  In this gentle introduction to DataCamp projects, we will walk you through the projects
+  interface and you will learn how to work with Jupyter notebooks: 
+  an open-source web application that is great for interactive data analysis.
 technology: 2
 instructors:
-  - ramnath@datacamp.com
+  - rasmus@datacamp.com
 collaborators:
+  - ramnath@datacamp.com
   - martijn@datacamp.com
 topics:
-  - 8
+  - 2
   - 4
-  - 3
+  - 12
+prerequisites:
+  - 735
+  - 799
+difficulty_level: 1
 time_needed: "30 minutes"
-illustration: "https://assets.datacamp.com/production/project_10/datasets/shield_image.png"
+illustration: "https://s3.amazonaws.com/assets.datacamp.com/production/project_33/datasets/project_image.png"
 
